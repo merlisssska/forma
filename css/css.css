@@ -1,0 +1,109 @@
+body{
+    background-color: #EFF6FF;
+    color: #2A4A5C;
+}
+.element{
+    width: 1200px;
+    height: 800px;
+    box-shadow: 1px 1px 20px #e7e1e1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: #FFFFFF;
+}
+.image{
+    height: 800px;
+    width: auto;
+    float: left;
+}
+.zag{
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.podzag{
+    margin-bottom: 30px;
+}
+button{
+    border: none;
+    color: #FFFFFF;
+    width: 200px;
+    font-size: 12px;
+    height: 40px;
+}
+.img{
+    float: left;
+    margin-left: 10px;
+    width: 10px;
+}
+.reg-l img{
+    width: 15px;
+    margin-top: 2px;
+}
+.zag2{
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+hr{
+    margin-top: 8px;
+}
+.or{
+    display: flex;
+    align-content: center;
+    margin-top: 30px;
+    font-size: 10px;
+}
+.reg-form{
+    margin-top: 20px;
+}
+.form-reg{
+    height: 40px;
+    font-size: 16px;
+    width: 200px;
+}
+.form-reg2{
+    height: 40px;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 30px;
+}
+.reg-f{
+    background-color: #255A9B;
+}
+.reg-l{
+    margin-left: 30px;
+    background-color: #0076B6;
+}
+.right-block{
+    margin-top: 30px;
+    padding: 70px;
+    float: left;
+}
+.checkbox-label{
+    color: #FFFFFF;
+}
+.checkbox-field{
+    margin-left: 50px;
+}
+.field-group{
+    margin-top: 30px;
+}
+.info{
+    margin-top: 20px;
+    padding: 8px;
+    width: 240px;
+    font-size: 16px;
+    height: 60px;
+    box-shadow: 1px 1px 10px rgb(231, 225, 225);
+}
+.agree{
+    font-size: 10px;
+    margin-top: 30px;
+}
+.create{
+    background-color: #3698FB;
+    margin-top: 30px;
+    border-radius: 5px;
+}
